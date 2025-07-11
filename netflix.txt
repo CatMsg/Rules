@@ -20,4 +20,4 @@
   - '+.netflix.com.au'      
   - '+.netflix.com.edgesuite.net'
   - '+.netflixinvestor.com'      
-  - '+.netflixstudios.com' 
+  - '+.netflixstudios.com'
