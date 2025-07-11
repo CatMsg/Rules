@@ -1,3 +1,4 @@
+payload:
   - '+.nflximg.net'
   - '+.nflxvideo.net'
   - '+.nflxext.com'  
