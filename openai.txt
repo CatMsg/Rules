@@ -1,0 +1,13 @@
+payload:
+  -  '+.sora.com'
+  -  '+.openai.com'
+  -  '+.chatgpt.com'
+  -  '+.azureedge.net'
+  -  '+.sentry.io'
+  -  '+.azurefd.net'
+  -  '+.intercomcdn.com'
+  -  '+.intercom.io'
+  -  '+.identrust.com'
+  -  '+.ai.com'
+  -  '+.oaistatic.com'
+  -  '+.oaiusercontent.com'
