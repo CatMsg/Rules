@@ -25,4 +25,4 @@ payload:
   -  '+.netflix.com.edgesuite.net'
   -  '+.netflixinvestor.com'
   -  '+.netflixstudios.com'
-  -  '+.onetrust.com'
+
